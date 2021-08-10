@@ -10,3 +10,11 @@ Data and code to plot the key figures of paper "Link recommendation algorithms a
 
 - *Plot.ipynb* is a Jupyter notebook that uses data in *Data/* and plots the key figures; Plot.ipynb also implements the analytic model (Figure S11)
 
+# Python dependencies
+
+- Python 3.7
+- matplotlib
+- NumPy
+
+
+
