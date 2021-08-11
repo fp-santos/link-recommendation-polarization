@@ -4,13 +4,13 @@ Data and code to plot the key figures of paper "Link recommendation algorithms a
 
 <h2>Directories and files</h2>
 
-- *DATA/* contains the raw data to plot each figure
+- <code>DATA/</code> contains the raw data to plot each figure
 
-- *Data/figX* contais the raw data corresponding to Figure X
+- <code>Data/figX</code> contais the raw data corresponding to Figure X
 
-- *Plot.ipynb* is a Jupyter notebook that uses data in *Data/* and plots the key figures; 
+- <code>Plot.ipynb</code> is a Jupyter notebook that uses data in *Data/* and plots the key figures; 
 
-- Analytic.ipynb implements the one-dimension analytic model in SI (Figure S11)
+- <code>Analytic.ipynb</code> implements the one-dimension analytic model in SI (Figure S11)
 
 <h2>Python dependencies</h2>
 
