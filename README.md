@@ -8,7 +8,7 @@ Data and code to plot the key figures of paper "Link recommendation algorithms a
 
 - <code>Data/figX</code> contais the raw data corresponding to Figure X
 
-- <code>Plot.ipynb</code> is a Jupyter notebook that uses data in *Data/* and plots the key figures; 
+- <code>Plot.ipynb</code> is a Jupyter notebook that uses data in *Data/* and plots key figures
 
 - <code>Analytic.ipynb</code> implements the one-dimension analytic model in SI (Figure S11)
 
